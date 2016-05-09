@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffff"
+    android:orientation="vertical"
+    android:gravity="center">
+
+        <!--<EditText-->
+            <!--android:id="@+id/registerEmail"-->
+            <!--android:hint="Valid Email-Id"-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:inputType="textEmailAddress">-->
+
+            <!--<requestFocus />-->
+        <!--</EditText>-->
+
+        <!--<EditText-->
+            <!--android:id="@+id/registerMobNum"-->
+            <!--android:layout_width="fill_parent"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:hint="10 Digit Mobile Number"-->
+            <!--android:inputType="number" />-->
+
+        <!--<EditText-->
+            <!--android:id="@+id/registerPswrd"-->
+            <!--android:layout_width="fill_parent"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:hint="Min. 5 character Password"-->
+            <!--android:inputType="textPassword" />-->
+
+        <!--<Button-->
+            <!--android:id="@+id/regBtn"-->
+            <!--android:layout_width="fill_parent"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:text="Create Account"-->
+            <!--android:layout_marginBottom="60dp" />-->
+
+        <!--<Button-->
+            <!--android:id="@+id/loginBtn"-->
+            <!--android:layout_width="fill_parent"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:text="Login "-->
+            <!--android:layout_marginBottom="60dp" />-->
+
+    </LinearLayout>
+
+
+
